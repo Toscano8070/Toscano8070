@@ -4,6 +4,7 @@ Diese Datei wird neu geschrieben, solange der PC an ist und LolaBeta läuft.
 Abends geht dieselbe Liste über ein privates GitHub-Repo nach Discord.
 GitHub (privat): https://github.com/Toscano8070/Toscano8070
 
-(noch keine Nachricht)
+2026-10-13
+- 21:32  Toscano8070 (Zettel)  this is a test
 
-geschrieben 2026-10-13 20:30
+geschrieben 2026-10-13 21:32
