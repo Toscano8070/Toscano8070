@@ -1,11 +1,11 @@
 Gästebuch-Liste
 Guest Gallery 2. Stimme und PostMe, dasselbe Brett.
 Diese Datei wird neu geschrieben, solange der PC an ist und LolaBeta läuft.
-Abends geht dieselbe Liste über ein privates GitHub-Repo nach Discord.
-GitHub (privat): https://github.com/Toscano8070/Toscano8070
+Dieselbe Liste liegt öffentlich auf GitHub. Die Welt kann sie lesen.
+GitHub: https://github.com/Toscano8070/Toscano8070
 
 2026-10-13
 - 21:32  Toscano8070 (Zettel)  Das ist ein Test
 - 23:06  Toscano8070 (Zettel)  Hallo, okay, hier können Sie ihre Kritiken hinterlassen oder falls es Ihnen gefallen hat, ein kurzes Kommentar für mich schreiben. Danke, Toscano8070 :-)
 
-geschrieben 2026-10-13 23:06
+geschrieben 2026-10-14 20:00
